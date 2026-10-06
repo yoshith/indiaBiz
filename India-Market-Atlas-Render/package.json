@@ -1,0 +1,12 @@
+{
+  "name": "india-market-atlas",
+  "version": "1.0.1",
+  "private": true,
+  "description": "India business research dashboard with a small static HTTP server for Render",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node server.cjs"
+  }
+}
